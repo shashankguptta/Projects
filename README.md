@@ -1,7 +1,7 @@
-## **Hii! I’m Lakshita Rawat from New Delhi, India**
+## **Hii! I’m  Shashank Gupta from New Delhi, India**
 Hi! I’m Lakshita, a Computer Science graduate focused on data analytics, analytics engineering, and data-driven problem solving. I build end-to-end projects using Python, SQL, Power BI, Excel, and modern analytics workflows to analyze data, generate insights, and support business and technical decision-making.
 <br>
-## Project 1: [TransactIQ – Forecasting India’s Journey Beyond Cash with UPI](https://lakshita-03.github.io/TransactIQ/)
+## Project 1: [[TransactIQ – Forecasting India’s Journey Beyond Cash with UPI](https://lakshita-03.github.io/TransactIQ/](https://github.com/shashankguptta/TransactIQ-main))
 <br>
 
 <img src="pic/upi.png" alt="banner" width="45%"> <img src="pic/upi1.png" alt="banner" widht="45%" height=259>   
