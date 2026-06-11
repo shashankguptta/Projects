@@ -1,4 +1,4 @@
-## 
+## **Hii! I’m Shashank gupta from Bareilly , India**
 Hi! I’m Shashank Gupta , a Computer Science graduate focused on data analytics, analytics engineering, and data-driven problem solving. I build end-to-end projects using Python, SQL, Power BI, Excel, and modern analytics workflows to analyze data, generate insights, and support business and technical decision-making.
 <br>
 ## Project 1: [[TransactIQ – Forecasting India’s Journey Beyond Cash with UPI](https://lakshita-03.github.io/TransactIQ/](https://github.com/shashankguptta/TransactIQ-main))
