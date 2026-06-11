@@ -1,7 +1,7 @@
 ## **Hii! I’m Shashank gupta from Bareilly , India**
 Hi! I’m Shashank Gupta , a Computer Science graduate focused on data analytics, analytics engineering, and data-driven problem solving. I build end-to-end projects using Python, SQL, Power BI, Excel, and modern analytics workflows to analyze data, generate insights, and support business and technical decision-making.
 <br>
-## Project 1: [[TransactIQ – Forecasting India’s Journey Beyond Cash with UPI](https://lakshita-03.github.io/TransactIQ/](https://github.com/shashankguptta/TransactIQ-main))
+## Project 1: [[TransactIQ – Forecasting India’s Journey Beyond Cash with UPI](https://github.com/shashankguptta/TransactIQ-main))
 <br>
 
 <img src="pic/upi.png" alt="banner" width="45%"> <img src="pic/upi1.png" alt="banner" widht="45%" height=259>   
@@ -17,7 +17,7 @@ TransactIQ focuses on modeling and forecasting the growth of UPI transactions in
 
 <br>
 
-## Project 2: [Sportswear Meets Data: Analyzing Puma’s Market Performance](https://lakshita-03.github.io/PUMA/)
+## Project 2: [Sportswear Meets Data: Analyzing Puma’s Market Performance](/)
 <br>
 
 <img src="pic/02.jpg" alt="banner" width="45%"><img src="pic/puma2.png" alt="banner" width="48%"> 
@@ -31,7 +31,7 @@ This project evaluates PUMA’s sales performance in the U.S. sportswear market 
 - Data visualization (Matplotlib, Seaborn)
 - Power BI dashboards for market comparison
 
-## Project 3: [Meta-Ads Analysis: Analyzing digital advertising campaign performance](https://lakshita-03.github.io/Meta-Ads/)
+## Project 3: [Meta-Ads Analysis: Analyzing digital advertising campaign performance](https://github.com/shashankguptta/Meta-Ads-main/)
 <br>
 
 <img src="pic/file.webp" alt="banner" width="45%">  <img src="pic/ad_eve_1.png" alt="banner" width="40%"> 
