@@ -17,7 +17,7 @@ TransactIQ focuses on modeling and forecasting the growth of UPI transactions in
 
 <br>
 
-## Project 2: [Sportswear Meets Data: Analyzing Puma’s Market Performance](/)
+## Project 2: [Sportswear Meets Data: Analyzing Puma’s Market Performance](https://shashankguptta.github.io/PUMA-main/)
 <br>
 
 <img src="pic/02.jpg" alt="banner" width="45%"><img src="pic/puma2.png" alt="banner" width="48%"> 
